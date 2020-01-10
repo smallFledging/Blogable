@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163498300024",
+    "firebase_url": "https://blogable-a4d04.firebaseio.com",
+    "project_id": "blogable-a4d04",
+    "storage_bucket": "blogable-a4d04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163498300024:android:686082cc0b28c034c7938d",
+        "android_client_info": {
+          "package_name": "com.example.blogable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163498300024-to9lr524rrak1c7rnn0sg8cinr78f1rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blogable",
+            "certificate_hash": "435599d9084437a79d97a849f24453cff949c014"
+          }
+        },
+        {
+          "client_id": "163498300024-1oipsq6eqra6olf3ts7j7sp8bth0qcud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6E66lMfzmlp_LnU00LnsFftRNl3B0QNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163498300024-1oipsq6eqra6olf3ts7j7sp8bth0qcud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

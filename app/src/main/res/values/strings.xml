@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Blogable</string>
+    <string name="bckImg">Night Sky</string>
+    <string name="username">Please enter username</string>
+    <string name="email">Please enter email </string>
+    <string name="password">Please enter password</string>
+    <string name="pass2">Confirm password</string>
+    <string name="login">Login</string>
+    <string name="signUp">Sign up</string>
+    <string name="hi">Hi</string>
+    <string name="createBtn">Create Post</string>
+    <string name="postDesc">Please type your post here.</string>
+    <string name="postBtn">Post message button</string>
+    <string name="rowDesc">Post Background</string>
+</resources>
